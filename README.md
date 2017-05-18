@@ -18,6 +18,7 @@ Right now there aren't packages pre-built.
 
 `mvn test`
 
+Igniting QuantLib on a Zeppelin: 
 http://quantlib.org/slides/qlum16d/pfadler.pdf
 
 https://github.com/apache/zeppelin/blob/master/docs/interpreter/jdbc.md
